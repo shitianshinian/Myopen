@@ -1,18 +1,12 @@
 <p align="center"><img src="http://365zl.vip/images/logo.png5.png"></p>
 
-<p align="center">
 
-</p>
 
 ## 关于 MyCMS
 
 本程序是采用laravel框架编写的一套内容管理，实现了文章的管理和后台用户管理
-
-
-- 采用layout.js 做前端框架
-- 采用H-ui 做前端框架
-
-
+采用layout.js 做前端框架
+采用H-ui 做前端框架
 
 ## 关于
  <p>365私人助理是新型O2O项目，是中国领先的生活服务O2O+人工智能</p>
@@ -26,5 +20,4 @@ QQ:1021588348@qq.com
 欢迎大家使用，如果问题请咨询本QQ,本程序是免费的，大家提出问题和需求，共同完善！感谢支持！
 
 ## License
-
-感谢 [私人助理赞助](http://365zl.vip).
+感谢 [私人助理赞助](http://365zl.vip)
